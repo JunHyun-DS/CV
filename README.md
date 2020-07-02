@@ -1,5 +1,5 @@
 ## Profile
-Name: JunHyun Byun
+Name: 변준현(JunHyun Byun)
 
 Email: bbjjhh1997@gmail.com
 
