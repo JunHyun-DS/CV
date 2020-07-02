@@ -13,7 +13,7 @@ Korea Polytechnic University (IT-Management & SmartFactory) (2016.03 ~)
 
 육군 17사단 만기전역(2017.02.28~ 2018.11.22)
 
-## project
+## roject
 코로나의 확산속도 예측(2020.01.20 ~ 2020.06.01 데이터 이용) 
 
 ## Competition
