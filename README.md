@@ -1,4 +1,13 @@
-# Resume
-This is an introduction to me.
+# Profile
 
-# 나
+# Education
+
+# Organization
+
+# project
+
+# Competition
+
+# certificate
+
+SQLD
