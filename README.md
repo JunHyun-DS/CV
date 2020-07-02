@@ -1,13 +1,19 @@
-# Profile
+## Profile
+Name: JunHyun Byun
 
-# Education
+Email: bbjjhh1997@gmail.com
 
-# Organization
+Github:
 
-# project
+## Education
+Korea Polytechnic University (IT-Management & SmartFactory) (2016.03 ~)
 
-# Competition
+## Organization
 
-# certificate
+## project
+
+## Competition
+
+## Certificate
 
 SQLD
