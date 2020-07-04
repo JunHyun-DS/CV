@@ -1,6 +1,8 @@
 ## 👨‍🎓 Profile
 - Name: 변준현(JunHyun Byun)
 
+- Interests: Data Science
+
 - Email: bbjjhh1997@gmail.com
 
 - Github: https://github.com/JunHyun-DS
