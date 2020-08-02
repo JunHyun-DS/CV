@@ -19,7 +19,6 @@
 - 코로나의 확산속도 예측(2020.06.01 ~ 2020.06.14) [｢GO｣](https://github.com/JunHyun-DS/The_diffusion_rate_of_COVID-19)
 
 ## 🏆 Competition
-- 제주 신용카드 빅데이터 경진대회 [｢GO｣](https://github.com/JunHyun-DS/Dacon_PredAMT)
 
 ## 🎫 Certificate
 - SQLD(제35회 SQLD, 2019.11.30.토)
