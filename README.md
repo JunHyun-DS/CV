@@ -1,7 +1,7 @@
 ## 👨‍🎓 Profile
 - Name: 변준현(JunHyun Byun)
 
-- Interests: Data Science
+- Interests: Data Science, Predictive Maintenance
 
 - Email: bbjjhh1997@gmail.com
 
@@ -14,6 +14,8 @@
 - 산업데이터분석 연구실(IDA lab) Research Assistance (2020.03.27 ~) [｢GO｣](https://koptimizer.github.io/IDALab.io/)
 
 - 육군 17사단 만기전역(2017.02.28~ 2018.11.22)
+
+## 📄Paper
 
 ## 👨‍💻 Project
 - 코로나의 확산속도 예측(2020.06.01 ~ 2020.06.14) [｢GO｣](https://github.com/JunHyun-DS/The_diffusion_rate_of_COVID-19)
