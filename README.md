@@ -18,6 +18,7 @@
 ## 📄Paper
 - A Remaining Useful Lifecycle prediction with Bayesian Mixture Model
 
+## Presentation
 
 ## 👨‍💻 Project
 - 코로나의 확산속도 예측(2020.06.01 ~ 2020.06.14) [｢GO｣](https://github.com/JunHyun-DS/The_diffusion_rate_of_COVID-19)
