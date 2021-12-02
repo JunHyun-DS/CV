@@ -16,11 +16,14 @@
 - 육군 17사단 만기전역(2017.02.28~ 2018.11.22)
 
 ## 📄Paper
+- A Remaining Useful Lifecycle prediction with Bayesian Mixture Model
+
 
 ## 👨‍💻 Project
 - 코로나의 확산속도 예측(2020.06.01 ~ 2020.06.14) [｢GO｣](https://github.com/JunHyun-DS/The_diffusion_rate_of_COVID-19)
 
 ## 🏆 Competition
+KAMP 제조분석 데이터 대회
 
 ## 🎫 Certificate
 - SQLD(제35회 SQLD, 2019.11.30.토)
