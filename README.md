@@ -8,8 +8,8 @@
 - Github: https://github.com/JunHyun-DS
 
 ## 🎓 Education
-- Korea Polytechnic University (IT-Management & SmartFactory) (2016.03 ~ 2022.02)
-- Tech University of Korea (Department of Smart Factory Convergence) (2022.03 ~ )
+- 한국산업기술대학교 IT경영학과 (학사) (2016.03 ~ 2022.02)
+- 한국공학대학교 스마트팩토리 융합학과 (석사) (2022.03 ~ )
 
 ## 💼 Organization
 - 산업데이터분석 연구실(IDA lab) Research Assistance (2020.03.27 ~) [｢GO｣](https://koptimizer.github.io/IDALab.io/)
