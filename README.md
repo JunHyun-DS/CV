@@ -8,11 +8,11 @@
 - Github: https://github.com/JunHyun-DS
 
 ## 🎓 Education
-- Korea Polytechnic University (IT-Management & SmartFactory) (2016.03 ~)
+- Korea Polytechnic University (IT-Management & SmartFactory) (2016.03 ~ 2022.02)
+- Tech University of Korea (Department of Smart Factory Convergence) (2022.03 ~ )
 
 ## 💼 Organization
 - 산업데이터분석 연구실(IDA lab) Research Assistance (2020.03.27 ~) [｢GO｣](https://koptimizer.github.io/IDALab.io/)
-
 - 육군 17사단 만기전역(2017.02.28~ 2018.11.22)
 
 ## 📄Paper
@@ -25,7 +25,10 @@
 - 2022 대한기계학회 춘계학술대회 (포스터 발표)
 
 ## 👨‍💻 Project
-- 코로나의 확산속도 예측(2020.06.01 ~ 2020.06.14) [｢GO｣](https://github.com/JunHyun-DS/The_diffusion_rate_of_COVID-19)
+- AI 를 활용한 사회경제 지표 모니터링 방안(임계치 설정), 기획재정부, 2021.07.01 ~ 2021.09.30
+- 정밀가공 공정상 불량 원인인지 분석 및 불량 예측 솔루션 개발, 중소기업기술정보진흥원, 2021.04.23 ~ 2022.01.22
+- 고품질 생산기술과 공정 신뢰성 확보를 위한 머신러닝 기반 예지보전 기술의 기저 방법론 개발, 한국연구재단, 2020.06.01 ~ 2023.02.28
+- 에너지 프로슈머 빅데이터 분석 및 AI 알고리즘을 활용한 P2P 에너지 블록체인 기술개발, 정보통신산업진흥원, 2020.04.01 ~ 2024.12.31
 
 ## 🏆 Competition
 - KAMP 제조분석 데이터 대회
