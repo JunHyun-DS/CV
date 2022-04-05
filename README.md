@@ -1,5 +1,5 @@
 ## 👨‍🎓 Profile
-- Name: 변준현(JunHyun Byun)
+- Name: 변준현(Junhyun Byun)
 
 - Interests: Data Science, Predictive Maintenance
 
