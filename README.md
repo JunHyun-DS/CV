@@ -19,12 +19,16 @@
 - A Remaining Useful Lifecycle prediction with Bayesian Mixture Model
 
 ## Presentation
+- 2021 한국신뢰성공학회 춘계학술대회 (구두 발표)
+- 2021 한국품질경영학회 추계학술대회 (구두 발표)
+- 2021 한국정보기술학회 추계학술대회 (구두 발표)
+- 2022 대한기계학회 춘계학술대회 (포스터 발표)
 
 ## 👨‍💻 Project
 - 코로나의 확산속도 예측(2020.06.01 ~ 2020.06.14) [｢GO｣](https://github.com/JunHyun-DS/The_diffusion_rate_of_COVID-19)
 
 ## 🏆 Competition
-KAMP 제조분석 데이터 대회
+- KAMP 제조분석 데이터 대회
 
 ## 🎫 Certificate
 - SQLD(제35회 SQLD, 2019.11.30.토)
