@@ -12,7 +12,7 @@
 - 한국공학대학교 스마트팩토리 융합학과 (석사) (2022.03 ~ )
 
 ## 💼 Organization
-- 산업데이터분석 연구실(IDA lab) Research Assistance (2020.03.27 ~) [｢GO｣](https://koptimizer.github.io/IDALab.io/)
+- 산업데이터분석 연구실(Industrial Data Analytics lab) Research Assistance (2020.03.27 ~) [｢GO｣](https://koptimizer.github.io/IDALab.io/)
 - 육군 17사단 만기전역(2017.02.28~ 2018.11.22)
 
 ## 📄Paper
