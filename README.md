@@ -18,7 +18,7 @@
 ## 📄Paper
 - A Remaining Useful Lifecycle prediction with Bayesian Mixture Model
 
-## Presentation
+## 🔉 Presentation
 - 2021 한국신뢰성공학회 춘계학술대회 (구두 발표)
 - 2021 한국품질경영학회 추계학술대회 (구두 발표)
 - 2021 한국정보기술학회 추계학술대회 (구두 발표)
