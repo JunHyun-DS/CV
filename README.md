@@ -16,7 +16,7 @@
 - 육군 17사단 만기전역 (2017.02.28~ 2018.11.22)
 
 ## 📄 Paper
-- A Remaining Useful Lifecycle prediction with Bayesian Mixture Model
+- A Bayesian Mixture Inference of RUL Integrating Reliability Information
 
 ## 🔉 Presentation
 - 2021 한국신뢰성공학회 춘계학술대회 (구두 발표)
