@@ -17,7 +17,7 @@
 
 ## 📄 Paper
 - A Bayesian Mixture Inference of RUL Integrating Reliability Information [작성중]
-- A Bayesian Ensemble approach for socio-economic indicator prediction [작성중]
+- A Bayesian Ensemble Approach for Socio-Economic Indicator Prediction [작성중]
 
 ## 🔉 Presentation
 - 2021 한국신뢰성공학회 춘계학술대회 (구두 발표)
