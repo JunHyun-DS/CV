@@ -13,7 +13,6 @@
 
 ## 💼 Organization
 - 산업데이터분석 연구실 (Industrial Data Analytics lab) Research Assistance (2020.03.27 ~) [｢GO｣](https://koptimizer.github.io/IDALab.io/)
-- 육군 17사단 만기전역 (2017.02.28~ 2018.11.22)
 
 ## 📄 Paper
 - A Bayesian Mixture Inference of RUL Integrating Reliability Information [작성중]
