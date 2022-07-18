@@ -1,4 +1,3 @@
-This is an introduction of myself
 ## 👨‍🎓 Profile
 - Name: 변준현(Junhyun Byun)
 
