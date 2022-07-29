@@ -1,7 +1,7 @@
 ## 👨‍🎓 Profile
 - Name: 변준현(Junhyun Byun)
 
-- Interests: Data Science, Predictive Maintenance, Remaining Useful Lifecycle Prediction
+- Interests: Data Science, Prognostics & Health management, Remaining Useful Lifecycle Prediction, Industrial AI
 
 - Email: bbjjhh1997@gmail.com
 
