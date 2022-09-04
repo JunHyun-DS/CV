@@ -35,6 +35,7 @@
 
 ## 🏆 Competition
 - 2021 KAMP 제조분석 데이터 대회
+- 2022 SKT AI Fellowship
 
 ## 🎫 Certificate
 - SQLD(제35회 SQLD, 2019.11.30.토)
