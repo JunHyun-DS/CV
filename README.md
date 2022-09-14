@@ -1,9 +1,14 @@
 ## 👨‍🎓 Profile
 - Name: 변준현(Junhyun Byun)
 
-- Interests: Data Science, Prognostics & Health management, Remaining Useful Lifecycle Prediction, Industrial AI
-
-- Email: bbjjhh1997@gmail.com
+- Interests: 
+  - Prognostics and Health Management
+  - Reliability Engineering
+  - Statistical Process Control
+  - Machine Learning
+  - Timeseries Analysis
+  
+- Email: bbjjhh1997@gmail.com 
 
 - Github: https://github.com/JunHyun-DS
 
@@ -19,23 +24,33 @@
 - A Bayesian Ensemble Approach for Socio-Economic Indicator Prediction [작성중]
 
 ## 🔉 Presentation
-- 2021 한국신뢰성공학회 춘계학술대회 (구두 발표)
-- 2021 한국품질경영학회 추계학술대회 (구두 발표)
-- 2021 한국정보기술학회 대학생논문경진대회 (구두 발표)
-- 2022 대한기계학회 춘계학술대회 (포스터 발표)
-- 2022 한국품질경영학회 춘계학술대회 (구두 발표)
-- 2022 대한산업공학회 춘계학술대회 (구두 발표)
+- 변준현, 민수홍, 강지훈* (2021), 다중 기계학습을 통한 혼합형 잔여수명 예측 모델, 한국신뢰성공학회 춘계학술대회 – Oral
 
+- 변준현, 민수홍, 강지훈* (2021), A Remained Useful Lifecycle Prediction with Bayesian Mixture Model, 한국품질경영학회 추계학술대회– Oral
+
+- 변준현, 민수홍, 강지훈* (2021), 베이지안 혼합형 모델을 이용한 잔여수명 예측, 한국정보기술학회 대학생논문경진대회– Oral
+
+- 변준현, 민수홍, 강지훈* (2022), 베이지안 혼합형 모델을 이용한 잔여수명 예측, 대한기계학회 춘계학술대회 – Poster
+
+- 변준현, 민수홍, 강지훈* (2022), 신뢰성 정보를 결합한 베이지안 혼합형 모델을 활용한 잔여수명 예측, 한국품질경영학회 춘계학술대회 – Oral
+
+- 변준현, 민수홍, 강지훈* (2022), 신뢰성 정보를 결합한 베이지안 혼합형 모델을 활용한 잔여수명 예측, 대한산업공학회 춘계학술대회 – Oral
 
 ## 👨‍💻 Project
-- AI 를 활용한 사회경제 지표 모니터링 방안(임계치 설정), 기획재정부, 2021.07.01 ~ 2021.09.30
-- 정밀가공 공정상 불량 원인인지 분석 및 불량 예측 솔루션 개발, 중소기업기술정보진흥원, 2021.04.23 ~ 2022.01.22
-- 고품질 생산기술과 공정 신뢰성 확보를 위한 머신러닝 기반 예지보전 기술의 기저 방법론 개발, 한국연구재단, 2020.06.01 ~ 2023.02.28
-- 에너지 프로슈머 빅데이터 분석 및 AI 알고리즘을 활용한 P2P 에너지 블록체인 기술개발, 정보통신산업진흥원, 2020.04.01 ~ 2024.12.31
+- 고품질 생산기술과 공정 신뢰성 확보를 위한 머신러닝 기법 예지보전 기술의 기저 방법론 개발, 과학기술정보통신부, Korea (Jun. 2020 ~ Feb. 2023)
+- 에너지 프로슈머 빅데이터 분석 및 AI 알고리즘을 활용한 P2P 에너지 블록체인 기술개발, 정보통신산업진흥원, Korea / 전력수요, 발전량 예측 모델 개발 (Apr. 2020 ~ Present)
+- AI를 활용한 사회경제 지표 모니터링 방안(임계치 설정), 기획재정부, Korea / 사회경제지표 데이터 수집, 사회경제지표 예측 모델 개발, 모니터링 시스템 구축 및 이상 원인분석 기법 개발 (Jul. 2021 ~ Sep. 2022)
+- 정밀가공 공정상 불량 원인인자 분석 및 불량 예측 솔루션 개발, 중소기업기술정보진흥원, Korea / (Apr. 2021 ~ Jan. 2023)
+- 사출업종을 위한 AI기반 지능형 품질관리 솔루션 구축, 민간용역, Korea / Python 기반 AI 코드 (ex. 머신러닝, 딥러닝) 제공 및 사출 데이터 분석 (Jun. 2022 ~ Oct. 2022)
 
-## 🏆 Competition
+## 🏆 Awards And Honors
+- 산학협동 산업기술대전 – 총장상, 한국공학대학교, Korea (Oct. 2021)
+- 추계 대학생 논문경진대회 – 은상, 한국정보기술학회, Korea (Nov. 2021)
+- 장학금 (SQLD, Soft Factory)
+
+## 🕛 Competition Expereicne 
 - 2021 KAMP 제조분석 데이터 대회
-- 2022 SKT AI Fellowship
+- 2022 SKT AI Fellowship 설비(로봇)의 잔여수명 예측 부문 서류전형 통과 (27팀 중 3등이내)
 
 ## 🎫 Certificate
 - SQLD(제35회 SQLD, 2019.11.30.토)
