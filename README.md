@@ -53,9 +53,9 @@
 - 장학금 (SQLD, Soft Factory)
 
 ## 🕛 Competition Expereicne 
+- 2021 17회 한국대학생 산업공학 프로젝트 경진대회
 - 2021 KAMP 제조분석 데이터 대회
 - 2022 SKT AI Fellowship 설비(로봇)의 잔여수명 예측 부문 서류전형 통과 (27팀 중 3등이내)
-- 2021 17회 한국대학생 산업공학 프로젝트 경진대회
 
 ## 🎫 Certificate
 - SQLD(제35회 SQLD, 2019.11.30.토)
