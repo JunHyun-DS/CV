@@ -20,8 +20,8 @@
 - 산업데이터분석 연구실 (Industrial Data Analytics lab) Research Assistance (2020.03.27 ~) [｢GO｣](https://koptimizer.github.io/IDALab.io/)
 
 ## 📄 Paper
-- A Bayesian Mixture Inference of RUL Integrating Reliability Information [작성중]
-- A Bayesian Ensemble Approach for Socio-Economic Indicator Prediction [작성중]
+- A Recursive Bayesian Mixture Inference of RUL Integrating Reliability Information [ongoing]
+- A Bayesian Ensemble Prediction for Socio-Economic Indicator [ongoing]
 
 ## 🔉 Conference
 - 변준현, 민수홍, 강지훈* (2021), 다중 기계학습을 통한 혼합형 잔여수명 예측 모델, 한국신뢰성공학회 춘계학술대회 – Oral
