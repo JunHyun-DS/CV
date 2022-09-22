@@ -18,8 +18,8 @@
 
 ## 💼 Organization
 
-- 산업데이터분석 연구실 (Industrial Data Analytics lab) Undergraduate Student (2020.03.27 ~ 2022.02.28) [｢GO｣](https://koptimizer.github.io/IDALab.io/)
-- 산업데이터분석 연구실 (Industrial Data Analytics lab) Master Student (2022.03.01 ~) [｢GO｣](https://koptimizer.github.io/IDALab.io/)
+- 산업데이터분석 연구실 (Industrial Data Analytics lab) Undergraduate Student (2020.03.27 ~ 2022.02.28)
+- 산업데이터분석 연구실 (Industrial Data Analytics lab) Master Student (2022.03.01 ~)
 
 ## 📄 Paper
 - A Recursive Bayesian Mixture Inference of RUL Integrating Reliability Information [ongoing]
