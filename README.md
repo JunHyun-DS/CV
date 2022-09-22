@@ -4,7 +4,7 @@
 - Interests: 
   - Prognostics and Health Management
   - Reliability Engineering
-  - Statistical Process Control
+  - Quality Control
   - Machine Learning
   - Timeseries Analysis
   
