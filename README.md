@@ -50,7 +50,6 @@
 ## 🏆 Awards And Honors
 - 산학협동 산업기술대전 – 총장상, 한국공학대학교, Korea (Oct. 2021)
 - 추계 대학생 논문경진대회 – 은상, 한국정보기술학회, Korea (Nov. 2021)
-- 장학금 (SQLD, Soft Factory)
 
 ## 🕛 Competition Expereicne 
 - 2021 17회 한국대학생 산업공학 프로젝트 경진대회
