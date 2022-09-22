@@ -3,7 +3,7 @@
 
 - Interests: 
   - Prognostics and Health Management
-  - Reliability Engineering
+  - Reliability Analysis
   - Quality Control
   - Machine Learning
   - Timeseries Analysis
@@ -52,9 +52,9 @@
 - 추계 대학생 논문경진대회 – 은상, 한국정보기술학회, Korea (Nov. 2021)
 
 ## 🕛 Competition Expereicne 
-- 2021 17회 한국대학생 산업공학 프로젝트 경진대회
-- 2021 KAMP 제조분석 데이터 대회
-- 2022 SKT AI Fellowship 설비(로봇)의 잔여수명 예측 부문 서류전형 통과 (27팀 중 3등이내)
+- 17회 한국대학생 산업공학 프로젝트 경진대회, 산업공학회 / R 기반 잔여수명 예측 모델 개발, Rshiny 기반 이상 및 고장 모니터링 대시보드 개발 (2021)
+- KAMP 제조분석 데이터 대회, 중소벤처기업부 / 파이썬 기반 이상감지 모델 개발, 사출성형 데이터 분석 (2021)
+- SKT AI Fellowship, SK telecom (주), 설비(로봇)의 잔여수명 예측 부문 서류전형 통과(27팀 중 3등이내) / 데이터, 신뢰성 기반 잔여수명 예측, 프로젝트 리딩 (2022)
 
 ## 🎫 Certificate
-- SQLD(제35회 SQLD, 2019.11.30.토)
+- SQLD(제35회 SQLD, Nov.2019)
